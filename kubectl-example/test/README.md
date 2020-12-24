@@ -1,4 +1,6 @@
-# kubectl -k
+# kustomiz with kubectl -k
+
+[web](https://kubernetes.io/docs/tasks/manage-kubernetes-objects/kustomization/#before-you-begin)
 
 ```sh
 # configMapGenerator
